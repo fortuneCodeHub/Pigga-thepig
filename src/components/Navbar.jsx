@@ -25,14 +25,14 @@ export default function Navbar() {
           >
             <FaTwitter />
           </a>
-          <a
+          {/* <a
             href="https://t.me"
             target="_blank"
             rel="noopener noreferrer"
             className="text-cyan-400 hover:text-cyan-300 transition-colors"
           >
             <FaTelegramPlane />
-          </a>
+          </a> */}
           <a
             href="https://discord.com"
             target="_blank"

@@ -40,14 +40,14 @@ export default function Footer() {
           >
             <FaTelegramPlane className="text-2xl text-black" />
           </a>
-          <a
+          {/* <a
             href="https://discord.gg/pigga"
             target="_blank"
             rel="noopener noreferrer"
             className="p-4 rounded-full bg-gradient-to-r from-[#f6d365] to-[#fda085] shadow-lg hover:scale-110 transition-transform"
           >
             <FaDiscord className="text-2xl text-black" />
-          </a>
+          </a> */}
           <a
             href="https://dexscreener.com"
             target="_blank"
