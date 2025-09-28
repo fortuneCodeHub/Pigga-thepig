@@ -99,8 +99,8 @@ export default function Hero() {
             <h1 className="hero-title text-4xl md:text-5xl xl:text-6xl font-extrabold leading-tight">
               <span className="block">
                 <span className="font-zentry">Meet{' '}</span>
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#61f6c9] via-[#8b6eff] to-[#ff7bbd]">
-                  <span className="text-4xl md:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#61f6c9] via-[#ff7bbd] to-[#8b6eff] graffiti-font drop-shadow-[0_0_15px_rgba(255,255,255,0.6)]">
+                <span className="">
+                  <span className="text-5xl md:text-6xl lg:text-8xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#61f6c9] via-[#ff7bbd] to-[#8b6eff] graffiti-font drop-shadow-[0_0_15px_rgba(255,255,255,0.6)]">
                     $PIGGA
                   </span>{' '}
                   <span className="font-zentry">the Pig</span>

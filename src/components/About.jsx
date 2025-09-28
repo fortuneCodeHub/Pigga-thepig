@@ -93,9 +93,9 @@ export default function About() {
         <div className="space-y-6">
             <div className='about-heading'>
                 <h2 className="text-3xl md:text-4xl xl:text-5xl font-extrabold">
-                    <span className="block pb-2 text-transparent bg-clip-text bg-gradient-to-r from-[#61f6c9] via-[#8b6eff] to-[#ff7bbd]">
+                    <span className="block pb-2">
                     <span className='font-zentry'>The Legend of</span>{' '}
-                    <span className="text-4xl md:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#61f6c9] via-[#ff7bbd] to-[#8b6eff] graffiti-font drop-shadow-[0_0_15px_rgba(255,255,255,0.6)]">
+                    <span className="text-5xl md:text-6xl lg:text-8xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-[#61f6c9] via-[#ff7bbd] to-[#8b6eff] graffiti-font drop-shadow-[0_0_15px_rgba(255,255,255,0.6)]">
                         $PIGGA
                     </span>
                     </span>
