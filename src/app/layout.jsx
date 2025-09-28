@@ -11,11 +11,11 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
-  title: "PIGGA THE PIG $PIGGA",
-  description:
-    "Pigga ditched the farm life to take over Solana. Cool, goofy, gangster, and unstoppable — $PIGGA ain’t just a coin, it’s a lifestyle. Join the movement.",
-};
+// export const metadata = {
+//   title: "PIGGA THE PIG $PIGGA",
+//   description:
+//     "Pigga ditched the farm life to take over Solana. Cool, goofy, gangster, and unstoppable — $PIGGA ain’t just a coin, it’s a lifestyle. Join the movement.",
+// };
 
 export default function RootLayout({ children }) {
   return (
