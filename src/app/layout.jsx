@@ -13,7 +13,8 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "PIGGA THE PIG $PIGGA",
-  description: "",
+  description:
+    "Pigga ditched the farm life to take over Solana. Cool, goofy, gangster, and unstoppable — $PIGGA ain’t just a coin, it’s a lifestyle. Join the movement.",
 };
 
 export default function RootLayout({ children }) {
