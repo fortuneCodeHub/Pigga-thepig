@@ -76,14 +76,16 @@ export default function Community() {
 
         <div className="flex flex-wrap gap-6 justify-center mt-6">
           <a
-            href="#"
+            href="https://t.me/+vDQ3bu3EOBljODY0"
             className="px-6 py-3 rounded-full font-semibold text-black bg-gradient-to-r from-[#61f6c9] to-[#8b6eff] shadow-lg hover:scale-[1.05] transition-transform"
+            target='_blank'
           >
             Join Telegram
           </a>
           <a
             href="https://x.com/PiggaCoinSol"
             className="px-6 py-3 rounded-full font-semibold text-black bg-gradient-to-r from-[#ff7bbd] to-[#8456ff] shadow-lg hover:scale-[1.05] transition-transform"
+            target='_blank'
           >
             Follow Twitter
           </a>
@@ -93,7 +95,8 @@ export default function Community() {
           <a
             className="twitter-timeline"
             data-theme="dark"
-            href="https://twitter.com/yourPiggaHandle"
+            href="https://x.com/PiggaCoinSol"
+            target='_blank'
           >
             Tweets by Pigga
           </a>

@@ -25,7 +25,7 @@ export default function Footer() {
         {/* Social Links */}
         <div className="flex gap-6 mt-4">
           <a
-            href="https://twitter.com/yourPiggaHandle"
+            href="https://x.com/PiggaCoinSol"
             target="_blank"
             rel="noopener noreferrer"
             className="p-4 rounded-full bg-gradient-to-r from-[#61f6c9] to-[#8b6eff] shadow-lg hover:scale-110 transition-transform"
@@ -33,7 +33,7 @@ export default function Footer() {
             <FaTwitter className="text-2xl text-black" />
           </a>
           <a
-            href="https://t.me/pigga"
+            href="https://t.me/+vDQ3bu3EOBljODY0"
             target="_blank"
             rel="noopener noreferrer"
             className="p-4 rounded-full bg-gradient-to-r from-[#ff7bbd] to-[#8456ff] shadow-lg hover:scale-110 transition-transform"
@@ -72,7 +72,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <p className="text-sm text-white/60">
-          © {new Date().getFullYear()} Pigga The Pig. All rights reserved.
+          © {new Date().getFullYear()} PiggaThePig. All rights reserved.
         </p>
       </div>
 

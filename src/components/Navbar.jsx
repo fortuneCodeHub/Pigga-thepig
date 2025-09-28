@@ -18,7 +18,7 @@ export default function Navbar() {
         {/* Social Links */}
         <div className="flex gap-6 text-2xl">
           <a
-            href="https://twitter.com"
+            href="https://x.com/PiggaCoinSol"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sky-400 hover:text-sky-300 transition-colors"
@@ -26,7 +26,7 @@ export default function Navbar() {
             <FaTwitter />
           </a>
           <a
-            href="https://t.me"
+            href="https://t.me/+vDQ3bu3EOBljODY0"
             target="_blank"
             rel="noopener noreferrer"
             className="text-cyan-400 hover:text-cyan-300 transition-colors"

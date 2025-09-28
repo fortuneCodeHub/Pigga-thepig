@@ -141,8 +141,9 @@ export default function Hero() {
               </a>
 
               <a
-                href="https://x.com/PiggaCoinSol"
+                href="https://t.me/+vDQ3bu3EOBljODY0"
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-white/10 text-white/90 hover:bg-white/5 transition"
+                target='_blank'
               >
                 Join the Hood
               </a>
